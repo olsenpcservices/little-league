@@ -4,6 +4,7 @@
     <span class="name"><%= link_to("Madrid Softball", root_path)%></span>
   </div>
 
+  
   <div class="links">
     <% if current_user %>
       <span>Logged in as <strong><%= current_user.email %></strong> | <%= link_to("logout", destroy_user_session_path) %></span>
