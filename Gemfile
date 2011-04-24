@@ -11,7 +11,7 @@ group :test, :development do
   gem 'rspec'
   gem 'rspec-rails'
   gem 'ZenTest'
-  #gem 'autotest'
+  #gem 'autotest'     nothing
   #gem 'autotest-rails'
   #gem 'autotest-growl'
   #gem 'autotest-fsevent'
